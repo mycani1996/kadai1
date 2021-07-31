@@ -1,6 +1,6 @@
 import csv
 
-path = './data/charactor_list.csv'
+path = './data/source.csv'
 csv_header = ['No','Name']
 
 def check_char(char_in):
